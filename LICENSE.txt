@@ -1,0 +1,84 @@
+# HOLogram Protocol — Dual License
+Il repository utilizza un modello di licenza doppia:
+
+- **Codice, specifiche tecniche, reference implementation, HLP, HCT:**  
+  → rilasciati sotto **MIT License**
+
+- **Whitepaper (completo e minimo), appendici, documentazione testuale:**  
+  → rilasciati sotto **Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+---
+
+# MIT License
+
+Copyright (c) 2026 HOLogram Protocol
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all  
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
+SOFTWARE.
+
+---
+
+# Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Questa licenza si applica a:
+
+- **Whitepaper HOLogram v1.0 (completo)**  
+- **Whitepaper HOLogram v1.0 (minimo)**  
+- Appendici tecniche incluse  
+- Documentazione narrativa, descrittiva e non eseguibile  
+- Diagrammi e contenuti esplicativi
+
+È consentito:
+
+- condividere — copiare e ridistribuire il materiale su qualsiasi mezzo o formato  
+- adattare — remixare, trasformare e sviluppare il materiale per qualsiasi scopo, anche commerciale
+
+A condizione che siano rispettati i seguenti requisiti:
+
+1. **Attribuzione:**  
+   Devi fornire attribuzione appropriata, includere il link alla licenza, e indicare se sono state effettuate modifiche.  
+   Attribuzione consigliata:  
+   *“HOLogram Protocol — Whitepaper v1.0 (CC BY 4.0)”*
+
+2. **Nessuna restrizione aggiuntiva:**  
+   Non puoi applicare termini legali o misure tecnologiche che limitino i diritti garantiti dalla licenza.
+
+Per il testo completo della licenza:  
+https://creativecommons.org/licenses/by/4.0/
+
+---
+
+# Nota sulla paternità
+
+Il protocollo HOLogram è pubblicato sotto pseudonimo (“BaffiSan”).  
+La licenza non richiede alcuna informazione aggiuntiva sull'identità reale dell’autore.
+
+---
+
+# Sintesi
+
+- **Codice = MIT (liberissimo, permissivo)**
+- **Whitepaper & Docs = CC BY 4.0 (attribuzione, massima libertà)**
+
+Questa combinazione garantisce:
+
+- massima libertà per sviluppatori e implementatori  
+- protezione della paternità del whitepaper  
+- apertura totale del protocollo  
+- compatibilità con GitHub/GitLab/IPFS  
+- conformità agli standard open‑source moderni
