@@ -18,12 +18,29 @@ HOLogram è:
 ### **Whitepaper completo**
 - **PDF:** `HOLogram_v1.0.pdf`
 - **SHA‑256:** `d01882e6f3f7507f9ddda6fc5f443a277c670e7c9c1573c31a5bb8730784d2e1`
-- **IPFS CID:** `<inserisci CID>`
+- **IPFS CID:** `QmaZmziEkbCz9uEKq1Q5cEtyccUMWDZsr9aaGe3xYz182i`
 
 ### **Whitepaper — versione minima**
 - **PDF:** `HOLogram_min_v1.0.pdf`
 - **SHA‑256:** `0751b2e73c4c2602adfed3d021ce7b64bfb2c85c3d39b82124f0cd0b10553309`
-- **IPFS CID:** `<inserisci CID>`
+- **IPFS CID:** `QmTmaAKHTh1oQdJS8ankJMDHGkNukWAcepM71kwaAdA2PH`
+
+## 📦 Distribuzione Decentralizzata (IPFS)
+
+### Cartella ufficiale (index.html + PDF + HASHES.txt)
+https://ipfs.io/ipfs/QmZ64tU7EzVgWruXzmx7RYHsMr3ECJ2pVe65jzokAhbUpp/
+
+### Whitepaper completo (v1.0)
+CID: `QmaZmziEkbCz9uEKq1Q5cEtyccUMWDZsr9aaGe3xYz182i`  
+Link: https://ipfs.io/ipfs/QmaZmziEkbCz9uEKq1Q5cEtyccUMWDZsr9aaGe3xYz182i
+
+### Whitepaper minimo (v1.0)
+CID: `QmTmaAKHTh1oQdJS8ankJMDHGkNukWAcepM71kwaAdA2PH`  
+Link: https://ipfs.io/ipfs/QmTmaAKHTh1oQdJS8ankJMDHGkNukWAcepM71kwaAdA2PH
+
+### HASHES.txt
+CID: `QmQSGDmaXagDY2P4JhgdaEDkvjmfCrtJas82KhU9ndYaJx`  
+Link: https://ipfs.io/ipfs/QmQSGDmaXagDY2P4JhgdaEDkvjmfCrtJas82KhU9ndYaJx
 
 ### Storico notarizzazioni  
 📄 `HASHES.txt`  
