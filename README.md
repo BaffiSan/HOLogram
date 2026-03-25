@@ -110,8 +110,8 @@ La RI sarà pubblicata come:
 # 📚 Documentazione
 
 - **Protocollo HOLogram (whitepaper v1.0)**  
-- **HLP — HOLogram Layer Protocol (specifica tecnica)** *(coming soon)*  
-- **HCT — HOLogram Compliance Tests** *(coming soon)*  
+- **HLP — HOLogram Layer Protocol (specifica tecnica)** 
+- **HCT — HOLogram Compliance Tests**  
 - **HOLoToken — sistema reputazionale non finanziario (Proof‑of‑Contribution)**  
 - **Ecosystem Registry** *(coming soon)*
 
