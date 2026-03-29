@@ -110,8 +110,8 @@ La RI sarà pubblicata come:
 # 📚 Documentazione
 
 - **Protocollo HOLogram (whitepaper v1.0)**  
-- **HLP — HOLogram Layer Protocol (specifica tecnica)** *(coming soon)*  
-- **HCT — HOLogram Compliance Tests** *(coming soon)*  
+- **HLP — HOLogram Layer Protocol (specifica tecnica)** 
+- **HCT — HOLogram Compliance Tests**  
 - **HOLoToken — sistema reputazionale non finanziario (Proof‑of‑Contribution)**  
 - **Ecosystem Registry** *(coming soon)*
 
@@ -153,3 +153,24 @@ Per verificare un PDF:
 
 ```bash
 sha256sum HOLogram_v1.0.pdf
+
+## 📄 Official Whitepapers (v1.0)
+
+The notarized documents for HOLogram v1.0 are available in the official Release:
+
+🔗 **Release v1.0 (IT + EN) — notarized PDFs, SHA‑256 hashes, IPFS CIDs**  
+https://github.com/BaffiSan/HOLogram/releases/tag/v1.0
+
+**Included:**
+- Whitepaper v1.0 (Italian)
+- Whitepaper v1.0 (English)
+- Minimum Whitepaper v1.0 (Italian)
+- Minimum Whitepaper v1.0 (English)
+- `HASHES.txt` (full notarization chain)
+- IPFS links for all language editions
+
+All documents include:
+- ✅ SHA‑256 integrity hash  
+- ✅ IPFS CID (immutable content addressing)  
+- ✅ Version tagging (v1.0)  
+- ✅ Complete notarization history  

@@ -4,11 +4,9 @@ Versione: 1.0
 Data: 2026-03-24
 ============================================================
 
-
 ------------------------------------------------------------
 WHITEPAPER COMPLETO (v1.0)
 ------------------------------------------------------------
-
 Nome file: HOLogram_v1.0.pdf
 Dimensione: 4.376.556 byte (≈ 4.27 MiB)
 
@@ -16,15 +14,11 @@ SHA-256:
 d01882e6f3f7507f9ddda6fc5f443a277c670e7c9c1573c31a5bb8730784d2e1
 
 IPFS CID:
-<inserire-CID-qui>
-
-------------------------------------------------------------
-
+QmaZmziEkbCz9uEKq1Q5cEtyccUMWDZsr9aaGe3xYz182i
 
 ------------------------------------------------------------
 WHITEPAPER MINIMO (v1.0)
 ------------------------------------------------------------
-
 Nome file: HOLogram_min.pdf
 Dimensione: 123.125 byte (≈ 120 KiB)
 
@@ -32,29 +26,31 @@ SHA-256:
 0751b2e73c4c2602adfed3d021ce7b64bfb2c85c3d39b82124f0cd0b10553309
 
 IPFS CID:
-<inserire-CID-qui>
+QmTmaAKHTh1oQdJS8ankJMDHGkNukWAcepM71kwaAdA2PH
 
 ------------------------------------------------------------
+HASHES.txt (questo file)
+------------------------------------------------------------
 
+IPFS CID:
+QmQSGDmaXagDY2P4JhgdaEDkvjmfCrtJas82KhU9ndYaJx
 
+------------------------------------------------------------
+CARTELLA COMPLETA (index.html + PDF + hashes)
+------------------------------------------------------------
+
+IPFS CID (master):
+QmZ64tU7EzVgWruXzmx7RYHsMr3ECJ2pVe65jzokAhbUpp
+
+------------------------------------------------------------
+NOTE
+------------------------------------------------------------
+- Ogni modifica ai PDF genera nuovi hash e nuovi CID.
+- Il CID master della cartella rappresenta la distribuzione notarizzata.
+- Per verificare un file: confrontare SHA-256 locale con quello dichiarato.
 ============================================================
-NOTE SULLA NOTARIZZAZIONE
+FINE
 ============================================================
-
-- Ogni modifica ai file comporta un nuovo hash e un nuovo CID.
-- Ogni release futura (v1.1, v2.0, ecc.) verrà aggiunta in questo archivio.
-- Gli hash sono verificabili con:
-
-  sha256sum HOLogram_v1.0.pdf
-  sha256sum HOLogram_min.pdf
-
-- I CID IPFS saranno aggiunti dopo l'upload dei file sulla rete IPFS:
-
-  ipfs add HOLogram_v1.0.pdf
-  ipfs add HOLogram_min.pdf
-
-- Questo file (HASHES.txt) deve essere anch’esso pubblicato su IPFS.
-- Una volta pubblicato, generare e annotare qui il suo CID.
 
 ============================================================
 FINE
