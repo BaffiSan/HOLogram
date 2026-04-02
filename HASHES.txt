@@ -1,44 +1,68 @@
 ============================================================
 HOLogram — Storico Notarizzazioni (SHA-256 + IPFS CID)
 Versione: 1.0
-Data: 2026-03-24
+Data: 2026-03-29
 ============================================================
 
 ------------------------------------------------------------
-WHITEPAPER COMPLETO (v1.0)
+WHITEPAPER COMPLETO (v1.0 – Italiano)
 ------------------------------------------------------------
 Nome file: HOLogram_v1.0.pdf
 Dimensione: 4.376.556 byte (≈ 4.27 MiB)
-
 SHA-256:
 d01882e6f3f7507f9ddda6fc5f443a277c670e7c9c1573c31a5bb8730784d2e1
-
 IPFS CID:
 QmaZmziEkbCz9uEKq1Q5cEtyccUMWDZsr9aaGe3xYz182i
 
 ------------------------------------------------------------
-WHITEPAPER MINIMO (v1.0)
+WHITEPAPER MINIMO (v1.0 – Italiano)
 ------------------------------------------------------------
 Nome file: HOLogram_min.pdf
 Dimensione: 123.125 byte (≈ 120 KiB)
-
 SHA-256:
 0751b2e73c4c2602adfed3d021ce7b64bfb2c85c3d39b82124f0cd0b10553309
-
 IPFS CID:
 QmTmaAKHTh1oQdJS8ankJMDHGkNukWAcepM71kwaAdA2PH
 
 ------------------------------------------------------------
+WHITEPAPER COMPLETO (v1.0 – English, Original Edition)
+------------------------------------------------------------
+Nome file: HOLogram_v1.0_EN.pdf
+Dimensione: 4.334.499 byte (≈ 4.23 MiB)
+SHA-256:
+40974d07538eb17da3be2fb76fd0433645a7d3b11cecd6a6045c7f56df2ff67b
+IPFS CID:
+QmU6tpUD9sijjLWUkAF9X9pLQTQCjVSNSArL3UexAFqPZ3
+
+------------------------------------------------------------
+WHITEPAPER COMPLETO (v1.0 – English, rev1)
+------------------------------------------------------------
+Nome file: HOLogram__v1.0_EN_rev1.pdf
+Dimensione: 4.334.190 byte (≈ 4.23 MiB)
+SHA-256:
+390c9286119758a436488a2084446077de5d96c6a95f7c0370279c6e2c2d2301
+IPFS CID:
+QmParS1gUWgwDhLQYutidyN3A8GnmcNHtsCzGKFfcYADdJ
+
+------------------------------------------------------------
+WHITEPAPER MINIMO (v1.0 – English)
+------------------------------------------------------------
+Nome file: HOLogram_min_1.0_EN.pdf
+Dimensione: 130.575 byte (≈ 127 KiB)
+SHA-256:
+9feec7359631dd2f64b3512c9b8bcb59c28a26e2def7346a38d1625e9a4cd3ad
+IPFS CID:
+QmQnyNxxv8u8EZRjB8U6zjTb6w14TwHmdjqmB91LtxFg9J
+
+------------------------------------------------------------
 HASHES.txt (questo file)
 ------------------------------------------------------------
-
 IPFS CID:
-QmQSGDmaXagDY2P4JhgdaEDkvjmfCrtJas82KhU9ndYaJx
+QmXVyB7mCMLtLZPMwAFnLirzWBmCdMHHSQxiX1dp6o9Qng
 
 ------------------------------------------------------------
 CARTELLA COMPLETA (index.html + PDF + hashes)
 ------------------------------------------------------------
-
 IPFS CID (master):
 QmZ64tU7EzVgWruXzmx7RYHsMr3ECJ2pVe65jzokAhbUpp
 
@@ -46,12 +70,10 @@ QmZ64tU7EzVgWruXzmx7RYHsMr3ECJ2pVe65jzokAhbUpp
 NOTE
 ------------------------------------------------------------
 - Ogni modifica ai PDF genera nuovi hash e nuovi CID.
+- Le versioni precedenti non vengono mai rimosse: fanno parte dello storico notarizzato.
+- Le versioni tradotte fanno parte della stessa release v1.0.
 - Il CID master della cartella rappresenta la distribuzione notarizzata.
 - Per verificare un file: confrontare SHA-256 locale con quello dichiarato.
-============================================================
-FINE
-============================================================
-
 ============================================================
 FINE
 ============================================================
