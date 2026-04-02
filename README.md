@@ -174,3 +174,23 @@ All documents include:
 - ✅ IPFS CID (immutable content addressing)  
 - ✅ Version tagging (v1.0)  
 - ✅ Complete notarization history  
+
+
+## 📄 Official Whitepapers (v1.0)
+
+The notarized documents for HOLogram v1.0 (Italian + English) are available in the official Release:
+
+🔗 **Release v1.0 (IT + EN)**  
+https://github.com/BaffiSan/HOLogram/releases/tag/v1.0
+
+### English Edition
+
+**EN Complete — Original Edition (v1.0)**  
+- File: HOLogram_v1.0_EN.pdf  
+- SHA‑256: 40974d07538eb17da3be2fb76fd0433645a7d3b11cecd6a6045c7f56df2ff67b  
+- IPFS: QmU6tpUD9sijjLWUkAF9X9pLQTQCjVSNSArL3UexAFqPZ3  
+
+**EN Complete — Revised Edition (rev1)**  
+- File: HOLogram__v1.0_EN_rev1.pdf  
+- SHA‑256: 390c9286119758a436488a2084446077de5d96c6a95f7c0370279c6e2c2d2301  
+- IPFS: QmParS1gUWgwDhLQYutidyN3A8GnmcNHtsCzGKFfcYADdJ  
