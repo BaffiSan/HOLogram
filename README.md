@@ -193,4 +193,4 @@ https://github.com/BaffiSan/HOLogram/releases/tag/v1.0
 **EN Complete — Revised Edition (rev1)**  
 - File: HOLogram__v1.0_EN_rev1.pdf  
 - SHA‑256: 390c9286119758a436488a2084446077de5d96c6a95f7c0370279c6e2c2d2301  
-- IPFS: QmParS1gUWgwDhLQYutidyN3A8GnmcNHtsCzGKFfcYADdJ  
+- IPFS: QmParS1gUWgwDhLQYutidyN3A8GnmcNHtsCzGKFfcYADdJ
